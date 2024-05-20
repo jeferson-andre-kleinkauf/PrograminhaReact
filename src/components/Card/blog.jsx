@@ -12,6 +12,7 @@ const Card = () => {
             <Description>
                <h1>pagina de blog</h1>
                <h2>post número 1</h2>
+               <h2>post número 2</h2>
             </Description>
         </Container>
     )
