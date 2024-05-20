@@ -13,7 +13,8 @@ const Card = () => {
                 <h4>choque-choque</h4>
                 <Itens>
                     <span><FaMapMarkedAlt/> carros de briquedo</span>
-                    <span>R$ 2.800,00 / mês</span>
+                    
+                    <p>vendas = R$ 5000,00</p>
                 </Itens>
                 <a href="#">Detalhes<FaArrowRight /></a>
             </Description>
